@@ -4,8 +4,9 @@ Link to the Dataset: https://huggingface.co/datasets/ChobPT/gradio_docs_alpaca.<
 Link to the model: https://huggingface.co/mistralai/Mistral-7B-v0.1 <br/>
 
 Prompt Template Used:<br/>
-
+```
 ### Question:<br/>
 {question} <br/>
 
 ### Answer:"""
+```
