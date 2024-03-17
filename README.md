@@ -8,5 +8,5 @@ Prompt Template Used:<br/>
 ### Question:<br/>
 {question} <br/>
 
-### Answer:"""
+### Answer:
 ```
